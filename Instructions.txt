@@ -1,0 +1,14 @@
+Attach this script to the joystick container you made
+The container is:
+Right click heirarchy:
+-> Create image UI-> Image
+Call it "VirtualJoyStick Container" or something similuar
+Attach the script
+->Create another image, right click the previous image. 
+-->Create child, another image
+Name it Joystick.
+
+
+In each image you can edit up everything, but to create a knob image
+Source Image: double click (when on the image you made)
+Click default "Knob"
